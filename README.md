@@ -23,3 +23,8 @@ Our team is proud to have secured **First Runner-Up** in the competition!
 ---
 
 We hope this repository provides valuable insights into our approach and solution for the hackathon. Feel free to explore the code, models, and presentation to understand our methodology!
+
+## Contributors
+- **Wonjae Choi**
+- **Youngho Lee**
+- **Jinah Park**
